@@ -1,4 +1,4 @@
-# Hi there, I'm Maayan Portugues! 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 🎗️
+# Hi there, I'm Maayan Portugues! 👋🎗️
 
 I'm passionate about **Artificial Intelligence (AI)**, **Open Source Software (OSS)**, and **Programming** in general.
 
@@ -12,20 +12,17 @@ I'm a programmer driven by a strong interest in computers and a constant desire 
 ## 🛠️ Tech Stack & Tools:
 
 ### language 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,python,cs,java,html,css,js)
+<a href="#">![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,python,cs,java,html,css,js)</a>
 
 ### Tools & Environment:
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=neovim,powershell,linux,tmux,windows,unity,wsl,wezterm,git,github,photoshop,illustrator,aftereffects,premiere,zen,ubuntu)
+<a href="#">![My Skills](https://go-skill-icons.vercel.app/api/icons?i=neovim,powershell,linux,tmux,windows,unity,wsl,wezterm,git,github,photoshop,illustrator,aftereffects,premiere,zen,ubuntu)</a>
 
 ---
 
 ### 📊 My GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dredstone1&show_icons=true&theme=radical&rank_icon=github" alt="dredstone1's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dredstone1&layout=compact&theme=radical" alt="dredstone1's Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dredstone1&theme=radical" alt="dredstone1's Streak Stats" />
-</p>
+<a href="#">![Github Status](https://github-readme-stats.vercel.app/api/top-langs/?username=dredstone1&theme=radical&show_icons=true&hide_border=true&layout=compact&line_height=20)</a>
+<a href="#">![Top Langs](https://github-readme-stats.vercel.app/api?username=dredstone1&theme=radical&show_icons=true&hide_border=true&count_private=true&line_height=20)</a>
 
 ---
 
