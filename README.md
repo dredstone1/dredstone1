@@ -4,25 +4,34 @@ I'm passionate about **Artificial Intelligence (AI)**, **Open Source Software (O
 
 ---
 
-### About Me:
-I'm a programmer driven by a strong interest in computers and a constant desire to learn. My focus areas include Artificial Intelligence and low-level programming, complemented by practical experience across various domains like game development, AI, networking, and web development, and much more...
+### 🧠 About Me
+
+I'm a curious and dedicated programmer with a deep love for computers and a drive to constantly learn and build.
+My main interests lie in **AI** and **low-level programming**, but I also enjoy exploring different fields such as:
+
+- 🎮 Game Development
+- 🧠 Artificial Intelligence
+- 🌐 Web Development
+- 🌐 Networking
+- 🛠️ Systems Programming
+- ...and so much more!
 
 ---
 
-## 🛠️ Tech Stack & Tools:
+## 🛠️ Tech Stack & Tools
 
-### language 
-<a href="#">![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,python,cs,java,html,css,js)</a>
+### 🔤 Languages  
+<a href="#"><img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,python,cs,java,html,css,js" alt="Languages" /></a>
 
-### Tools & Environment:
-<a href="#">![My Skills](https://go-skill-icons.vercel.app/api/icons?i=neovim,powershell,linux,tmux,windows,unity,wsl,wezterm,git,github,photoshop,illustrator,aftereffects,premiere,zen,ubuntu)</a>
+### 🧰 Tools & Environment  
+<a href="#"><img src="https://go-skill-icons.vercel.app/api/icons?i=neovim,powershell,linux,tmux,windows,unity,wsl,wezterm,git,github,photoshop,illustrator,aftereffects,premiere,zen,ubuntu" alt="Tools and Environments" /></a>
 
 ---
 
-### 📊 My GitHub Stats:
+## 📊 GitHub Stats
 
-<a href="#">![Github Status](https://github-readme-stats.vercel.app/api/top-langs/?username=dredstone1&theme=radical&show_icons=true&hide_border=true&layout=compact&line_height=20)</a>
 <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api?username=dredstone1&theme=radical&show_icons=true&hide_border=true&count_private=true&line_height=20)</a>
+<a href="#">![Github Status](https://github-readme-stats.vercel.app/api/top-langs/?username=dredstone1&theme=radical&show_icons=true&hide_border=true&layout=compact&line_height=20)</a>
 
 ---
 
