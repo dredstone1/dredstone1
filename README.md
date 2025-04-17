@@ -12,10 +12,10 @@ I'm a programmer driven by a strong interest in computers and a constant desire 
 ## 🛠️ Tech Stack & Tools:
 
 ### language 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cpp,c,python,cs,java,html,css,js)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,python,cs,java,html,css,js)
 
 ### Tools & Environment:
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=neovim,powershell,linux,windows,unity,wsl,wezterm,git,github,photoshop,illustrator,tmux,aftereffects,premiere,zen,ubuntu)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=neovim,powershell,linux,tmux,windows,unity,wsl,wezterm,git,github,photoshop,illustrator,aftereffects,premiere,zen,ubuntu)
 
 ---
 
