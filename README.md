@@ -9,44 +9,23 @@ I'm a programmer driven by a strong interest in computers and a constant desire 
 
 ---
 
-### 🛠️ Tech Stack & Tools:
+## 🛠️ Tech Stack & Tools:
 
-Here are some of the technologies I work with:
+### language 
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cpp,c,python,cs,java,html,css,js)
 
-**Languages:**
-*   **C++** ⚙️
-*   **C** 🔩
-*   **Python** 🐍
-*   **C#** `#️⃣`
-*   **Java** ☕
-*   **HTML** 🧱
-*   **CSS** 🎨
-*   **JavaScript** 🟨
-
-**Tools & Environment:**
-*   **Git** & GitHub 🌿
-*   **Linux** 🐧
-*   **WSL**
-*   **Windows**
-*   **Neovim** 🖋️
-*   **Tmux** ↔️
-*   **PowerShell** `💲`
-*   **Wezterm**
-*   **Unity**
-*   **Photoshop**, **Illustrator**, **Premiere Pro**, **After Effect**
+### Tools & Environment:
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=neovim,powershell,linux,windows,unity,wsl,wezterm,git,github,photoshop,illustrator,tmux,aftereffects,premiere,zen,ubuntu)
 
 ---
 
 ### 📊 My GitHub Stats:
 
 <p align="center">
-  <!-- Using username dredstone1 as specified -->
   <img src="https://github-readme-stats.vercel.app/api?username=dredstone1&show_icons=true&theme=radical&rank_icon=github" alt="dredstone1's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dredstone1&layout=compact&theme=radical" alt="dredstone1's Top Languages" />
-  <!-- Optional: Streak Stats -->
-  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=dredstone1&theme=radical" alt="dredstone1's Streak Stats" /> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dredstone1&theme=radical" alt="dredstone1's Streak Stats" />
 </p>
-<!-- Themes: default, dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 
 ---
 
