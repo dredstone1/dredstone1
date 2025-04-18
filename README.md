@@ -21,10 +21,10 @@ My main interests lie in **AI** and **low-level programming**, but I also enjoy 
 ## 🛠️ Tech Stack & Tools
 
 ### 🔤 Languages  
-<a href="#"><img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,python,cs,java,html,css,js" alt="Languages" /></a>
+<a href="#"><img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,python,cs,java,html,css,js&perline=5" alt="Languages" /></a>
 
 ### 🧰 Tools & Environment  
-<a href="#"><img src="https://go-skill-icons.vercel.app/api/icons?i=neovim,powershell,linux,tmux,windows,unity,wsl,wezterm,git,github,photoshop,illustrator,aftereffects,premiere,zen,ubuntu" alt="Tools and Environments" /></a>
+<a href="#"><img src="https://go-skill-icons.vercel.app/api/icons?i=neovim,powershell,linux,tmux,windows,unity,wsl,wezterm,git,github,photoshop,illustrator,aftereffects,premiere,zen,ubuntu&perline=5" alt="Tools and Environments" /></a>
 
 ---
 
