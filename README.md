@@ -24,7 +24,7 @@ My main interests lie in **AI** and **low-level programming**, but I also enjoy 
 <a href="#"><img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,python,cs,java,html,css,js&perline=6" alt="Languages" /></a>
 
 ### 🧰 Tools & Environment  
-<a href="#"><img src="https://go-skill-icons.vercel.app/api/icons?i=neovim,powershell,linux,tmux,windows,unity,wsl,wezterm,git,github,cmake,androidstudio,photoshop,illustrator,aftereffects,premiere,animate,zen,ubuntu,googleplayconsole,proxmox&perline=6" alt="Tools and Environments" /></a>
+<a href="#"><img src="https://go-skill-icons.vercel.app/api/icons?i=neovim,powershell,linux,tmux,windows,unity,wsl,wezterm,git,github,cmake,androidstudio,photoshop,illustrator,aftereffects,premiere,animate,ubuntu,googleplayconsole,proxmox&perline=6" alt="Tools and Environments" /></a>
 
 ---
 
