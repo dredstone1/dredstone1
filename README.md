@@ -24,7 +24,7 @@ My main interests lie in **AI** and **low-level programming**, but I also enjoy 
 <a href="#"><img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,python,cs,java,html,css,js&perline=6" alt="Languages" /></a>
 
 ### 🧰 Tools & Environment  
-<a href="#"><img src="https://go-skill-icons.vercel.app/api/icons?i=neovim,linux,tmux,unity,git,github,cmake,androidstudio,photoshop,illustrator,aftereffects,premiere,animate,ubuntu,googleplayconsole,proxmox,arch,kitty,zen,hyprland&perline=6" alt="Tools and Environments" /></a>
+<a href="#"><img src="https://go-skill-icons.vercel.app/api/icons?i=neovim,linux,tmux,unity,git,github,cmake,androidstudio,photoshop,illustrator,aftereffects,premiere,animate,proxmox,arch,kitty,zen,hyprland&perline=6" alt="Tools and Environments" /></a>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dredstone1&label=Profile%20views&color=blueviolet&style=flat-square" alt="Profile views" />
