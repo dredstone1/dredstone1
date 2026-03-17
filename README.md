@@ -1,4 +1,4 @@
-# Hi there, I'm Maayan Portugues! 👋🎗️🏳️‍🌈
+# Hi there, I'm Maayan Portugues! 👋🏳️‍🌈🇮🇱
 
 I'm passionate about **Artificial Intelligence (AI)**, **Open Source Software (OSS)**, and **Programming** in general.
 
